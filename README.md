@@ -4,7 +4,7 @@ Repo for the EMNLP 2023 paper "From Heuristic to Analytic: Cognitively-Motivated
 
 [arXiv](https://arxiv.org/abs/2310.18364)
 
-![HAR](./heuristic_analytic_vertical.png =200x)
+<img src="./heuristic_analytic_vertical.png" alt="heuristic_analytic_vertical.png" width="200"/>
 
 ## Before We Start
 
