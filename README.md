@@ -2,9 +2,9 @@
 
 Repo for the EMNLP 2023 paper "From Heuristic to Analytic: Cognitively-Motivated Reasoning Strategies for Coherent Physical Commonsense Reasoning."
 
-[Paper](https://arxiv.org/abs/2310.18364)
+[arXiv](https://arxiv.org/abs/2310.18364)
 
-![HAR](./heuristic_analytic_vertical.png)
+![HAR](./heuristic_analytic_vertical.png =200x)
 
 ## Before We Start
 
