@@ -1,8 +1,10 @@
 # Heuristic-Analytic Reasoning (HAR)
 
-Repo for the EMNLP 2023 paper "From Heuristic to Analytic: Cognitively-Motivated Reasoning Strategies for Coherent Physical Commonsense."
+Repo for the EMNLP 2023 paper "From Heuristic to Analytic: Cognitively-Motivated Reasoning Strategies for Coherent Physical Commonsense Reasoning."
 
-![HAR](./HAR.png)
+[Paper](https://arxiv.org/abs/2310.18364)
+
+![HAR](./heuristic_analytic_vertical.png)
 
 ## Before We Start
 
